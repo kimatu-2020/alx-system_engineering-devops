@@ -1,0 +1,7 @@
+su swithes_current_user
+whoami prints_effective_user_of_current_user
+prints_all_groups_of_current_user
+change_user_betty_hello
+empty file hello
+add_execute_permission_to_owner
+execute_permission_to_owner_and_group
